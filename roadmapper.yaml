@@ -1,0 +1,19 @@
+title: React for experts
+description: You will learn react for web and native.
+tags:
+- react
+- react native
+- mobile development
+stages:
+- 
+  title: Learn react basics
+  resources:
+  - https://www.youtube.com/watch?v=DIomfxxCpM8
+  - https://medium.com/@_erikaybar/one-developers-condensed-intro-to-react-68cbf078f992
+  exercise: stage1.md
+- 
+  title: Intro to native
+  resources:
+  - https://www.youtube.com/watch?v=iPsORZun55g
+  - https://school.shoutem.com/lectures/build-react-native-mobile-app-tutorial/
+  exercise: stage2.md 
